@@ -1,0 +1,10 @@
+﻿  Main.cpp
+C:\Users\30301\source\repos\Tic Tac Toe\Tic Tac Toe\Main.cpp(32,36): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+C:\Users\30301\source\repos\Tic Tac Toe\Tic Tac Toe\Main.cpp(32,56): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+C:\Users\30301\source\repos\Tic Tac Toe\Tic Tac Toe\Main.cpp(52,6): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+C:\Users\30301\source\repos\Tic Tac Toe\Tic Tac Toe\Main.cpp(52,88): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+C:\Users\30301\source\repos\Tic Tac Toe\Tic Tac Toe\Main.cpp(59,6): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+C:\Users\30301\source\repos\Tic Tac Toe\Tic Tac Toe\Main.cpp(59,88): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+C:\Users\30301\source\repos\Tic Tac Toe\Tic Tac Toe\Main.cpp(66,6): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+C:\Users\30301\source\repos\Tic Tac Toe\Tic Tac Toe\Main.cpp(67,1): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+  Tic Tac Toe.vcxproj -> C:\Users\30301\source\repos\Tic Tac Toe\Debug\Tic Tac Toe.exe

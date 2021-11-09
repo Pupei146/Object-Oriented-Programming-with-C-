@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\Users\30301\source\repos\probability\probability\Main.cpp(6,1): warning C4326: “main”的返回类型应为“int”而非“void”
+  probability.cpp
+C:\Users\30301\source\repos\probability\probability\probability.cpp(46,37): warning C4554: “|”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+  正在生成代码...
+  probability.vcxproj -> C:\Users\30301\source\repos\probability\Debug\probability.exe
