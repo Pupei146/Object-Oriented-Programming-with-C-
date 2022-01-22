@@ -4,7 +4,7 @@ This repository includes the assignments in the course EN.605.604.82.FA21 Object
 
 The course contents includes:
 
-Module 1 Introduction
+Module 1 Introduction.
     Read Chapters 1 & 2
     View Presentations
     Quiz
@@ -14,7 +14,7 @@ Module 1 Introduction
 Module 2
 Intro to Classes,
 Objects, Strings, Control
-Statements
+Statements.
     Read Chapters 3 & 4
     View Presentations
     Quiz
@@ -25,49 +25,49 @@ Module 3
 Control Statements and
 Logical Operators
 Functions, and
-Introduction to Recursion
+Introduction to Recursion.
     Read Chapters 5 & 6
     View Presentations
     Quiz
     Discussion
     Project Due: TicTacToe
 
-Module 4 Arrays and Vectors Pointers
+Module 4 Arrays and Vectors Pointers.
     Read Chapters 7 & 8
     View Presentations
     Quiz
     Discussion
     Project: Poker Hands
 
-Module 5 Classes
+Module 5 Classes.
     Read Chapter 9
     View Presentations
     Quiz
     Discussion
     Project Due: Poker Hands
 
-Module 6 Operator Overloading
+Module 6 Operator Overloading.
     Read Chapter 10
     View
     Presentations Quiz
     Discussion
     Project: Probabilities
 
-Module 7 OOP Inheritance
+Module 7 OOP Inheritance.
     Read Chapter 11
     View Presentations
     Quiz
     Discussion
     Project Due: Probabilities
 
-Module 8 Polymorphism
+Module 8 Polymorphism.
     Read Chapter 12
     View Presentations Quiz
     Discussion
     Project: Expression Tree 
 
 Module 9 Stream Input-Output
-File Processing
+File Processing.
     Read Chapters 13 & 14
     View Presentations
     Quiz
@@ -75,14 +75,14 @@ File Processing
     Project Due: Expression Tree
 
 Module 10 Standard Template
-Library STL Algorithms
+Library STL Algorithms.
     Read Chapters 15 & 16
     View Presentations Quiz
     Discussion
     Project: Elevator Simulation
 
 Module 11 Exceptions and
-Custom Templates
+Custom Templates.
     Read Chapters 17 & 18
     View Presentations
     Quiz
@@ -90,7 +90,7 @@ Custom Templates
     Project Due: Elevator Simulation
 
 Module 12
-Data Structures
+Data Structures.
 Searching and Sorting,
 String and String Stream
 Processing
@@ -101,7 +101,7 @@ Processing
     Project: Stock Projection
 
 Module 13 Bits, Chars, Strings,
-Structs, Other Topics
+Structs, Other Topics.
     Read Chapters 22 & 23
     View Presentations
     Quiz
@@ -109,7 +109,7 @@ Structs, Other Topics
     Project Due: Stock Projection
 
 Module 14 C++11
-Additional Features
+Additional Features.
     Read Chapter 24
     View Presentations Quiz
     Discussion
